@@ -149,7 +149,7 @@ El código utiliza la función eval para evaluar expresiones matemáticas. Aunqu
 - Agregar modo oscuro/claro
 
 
-  ``mermaid
+  ```mermaid
 classDiagram
     %% Clase Producto
     class Producto {
