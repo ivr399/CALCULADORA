@@ -147,3 +147,26 @@ El código utiliza la función eval para evaluar expresiones matemáticas. Aunqu
 - Mejorar el manejo de errores con mensajes más descriptivos
 - Implementar memoria de calculadora
 - Agregar modo oscuro/claro
+´´mermaidclassDiagram
+    %% Clase Producto
+    class Producto {
+        - String nombre
+        - double precioBase
+        + Producto(String nombre, double precioBase)
+        + double getPrecioBase()
+    }
+
+    %% Clase CalculadoraIVA
+    class CalculadoraIVA {
+        - final double IVA = 0.21
+        + double calcularPrecioFinal(double precio)
+    }
+
+    %% Clase Main
+    class Main {
+        + main(String[] args)
+    }
+
+    %% Relaciones
+    Main --> Producto : usa
+    Main --> CalculadoraIVA : usa
