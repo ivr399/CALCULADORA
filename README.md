@@ -147,7 +147,8 @@ El código utiliza la función eval para evaluar expresiones matemáticas. Aunqu
 - Mejorar el manejo de errores con mensajes más descriptivos
 - Implementar memoria de calculadora
 - Agregar modo oscuro/claro
-´´mermaidclassDiagram
+´´'mermaid
+classDiagram
     %% Clase Producto
     class Producto {
         - String nombre
