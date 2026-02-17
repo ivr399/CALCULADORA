@@ -1,0 +1,109 @@
+# 🧮 Calculadora Web — Manual de Usuario y Estudiantes
+
+**Versión:** 1.0  
+**Fecha:** 17/02/2026  
+
+---
+
+## 📌 Descripción general
+
+Esta calculadora web es una aplicación sencilla que permite realizar operaciones matemáticas básicas directamente desde el navegador. Está diseñada con fines educativos para ayudar a estudiantes a comprender el funcionamiento de una calculadora digital y su implementación en páginas web.
+
+La aplicación es fácil de usar, rápida y accesible desde cualquier dispositivo con navegador.
+
+---
+
+## 🎯 Objetivos del proyecto
+
+- Facilitar el aprendizaje de aplicaciones web básicas
+- Comprender el funcionamiento de una calculadora digital
+- Practicar el uso de tecnologías web
+- Servir como ejemplo educativo para estudiantes
+
+---
+
+## ⚙️ Funciones principales
+
+### ➕ Suma
+Permite añadir dos números y obtener el resultado inmediatamente.
+
+### ➖ Resta
+Permite calcular la diferencia entre dos valores.
+
+### ✖️ Multiplicación
+Permite multiplicar dos números.
+
+### ➗ División
+Permite dividir un número entre otro y mostrar el resultado.
+
+### 🧹 Botón de limpiar
+Permite borrar todos los valores y comenzar una nueva operación.
+
+### 🖥️ Pantalla de visualización
+Muestra los números introducidos y los resultados de las operaciones.
+
+---
+
+## 👨‍🎓 Uso educativo
+
+Este proyecto es útil para:
+
+- Estudiantes que aprenden desarrollo web
+- Comprender la lógica de aplicaciones simples
+- Practicar el uso de interfaces de usuario
+- Aprender el funcionamiento básico de una calculadora digital
+
+---
+
+## 🌐 Ventajas
+
+- Fácil de usar
+- Interfaz clara
+- Funciona en cualquier navegador moderno
+- No requiere instalación
+- Ideal para aprendizaje
+
+---
+
+## 📚 Público objetivo
+
+- Estudiantes de informática
+- Principiantes en desarrollo web
+- Profesores que enseñan programación
+- Usuarios que necesiten una calculadora básica
+
+---
+
+## 🔧 Posibles mejoras futuras
+
+- Añadir operaciones avanzadas
+- Mejorar el diseño visual
+- Añadir historial de operaciones
+- Permitir uso con teclado
+
+---
+
+## 📋 Lista de tareas pendientes
+
+- [ ] Añadir modo oscuro 🌙
+- [ ] Añadir operaciones científicas 🔬
+- [ ] Mejorar la interfaz 🎨
+- [ ] Añadir historial 📜
+- [ ] Optimizar rendimiento ⚡
+
+---
+
+## 🧠 Microprocesador 6502
+
+Este microprocesador fue muy importante en la historia de la informática y se utilizó en muchos sistemas clásicos.
+
+![Microprocesador 6502](https://upload.wikimedia.org/wikipedia/commons/3/3a/MOS_6502AD_4585_top.jpg)
+
+---
+
+## 🏁 Conclusión
+
+Esta calculadora es un ejemplo práctico y educativo que permite comprender cómo funcionan las aplicaciones web interactivas. Es un excelente punto de partida para aprender desarrollo web y lógica de programación.
+
+
+---
